@@ -1,0 +1,4 @@
+city,timestamp,temp_c,feels_like_c,temp_min_c,temp_max_c,humidity_pct,pressure_hpa,wind_speed_ms,wind_deg,cloudiness_pct,weather_main,weather_desc,visibility_m,rain_1h_mm
+New Delhi,2026-04-13 05:08:13,28.07,27.24,28.07,28.07,32,1011,2.06,270,20,Haze,haze,3500,0
+Mumbai,2026-04-13 05:06:36,31.0,36.43,30.95,31.0,66,1011,4.12,270,20,Haze,haze,4000,0
+Bangalore,2026-04-13 05:10:15,31.27,33.28,29.77,32.57,51,1013,5.81,221,40,Clouds,scattered clouds,6000,0

@@ -1,0 +1,28 @@
+cat > .gitignore << 'EOF'
+# Virtual environment
+venv/
+env/
+.env
+
+# Large data files
+data/historical_weather.csv
+data/engineered_features.csv
+data/X_train.csv
+data/X_test.csv
+data/y_train.csv
+data/y_test.csv
+
+# Secrets
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+EOF
